@@ -1,3 +1,4 @@
+### Find the list of the scripts on the page
 ```
 from bs4 import BeautifulSoup
 import requests
