@@ -18,4 +18,4 @@
   #### on win
   - ```certutil -hashfile kali-linux-2020.1b-live-amd64.iso SHA256```
   
-- [Download]() this repo and run the command ```sudo packer build kali2020.json```
+- [Download]() this repo and run the command ```sudo packer build -force kali2020.json```
