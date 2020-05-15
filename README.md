@@ -5,7 +5,7 @@
 2. Passed entry level challenge HTB
 3. Kali distribution installed on a vm or spare computer
 4. Make sure you can access colab.research.google.com/ as backup
-5. Install docker
+5. Install docker, packer, vagrant
 4. at least 2 hours available
 
 
