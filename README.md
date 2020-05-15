@@ -10,13 +10,7 @@
 2. Passed entry level challenge HTB
 
 
-
-
-
-
-
-### Packer script to install Kali 2020 on Virtualbox
-
+### How to use Packer script to install Kali 2020 on Virtualbox
 - Download kali 2020
 - Perform a sha256 on the iso
   #### on linux
@@ -24,6 +18,4 @@
   #### on win
   - ```certutil -hashfile kali-linux-2020.1b-live-amd64.iso SHA256```
   
-  
-### in progress
 - [Download]() this repo and run the command ```sudo packer build kali2020.json```
