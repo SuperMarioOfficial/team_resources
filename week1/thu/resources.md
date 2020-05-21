@@ -43,7 +43,7 @@ function makeInviteCode_edited() {
 ```
 ```javascript
 var file = makeInviteCode();
-console.log(file['data']['data'];
+console.log(file['data']['data']);
 ```
 
 ### Notes
