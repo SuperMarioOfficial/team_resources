@@ -45,3 +45,14 @@ function makeInviteCode_edited() {
 var file = makeInviteCode();
 console.log(file['data']['data'];
 ```
+
+### Notes
+We decided to go with the next challenge [sauna](https://www.hackthebox.eu/home/machines/profile/229) on hackthebox.
+```
+Machine IP 10.10.10.175 windows
+```
+
+### reference
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof
+- https://api.jquery.com/jquery.ajax/
+- https://mindwarelab.wordpress.com/ctf/hack-the-box/the-invite-code/invite-code-walkthrough/
