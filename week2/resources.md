@@ -6,9 +6,9 @@
 
 ```
 -------------------------
-Decimals are base 10
-Hexadecimal are base 16
-Binary are base 2
+Decimals are base 10 = 1215
+Hexadecimal are base 16 = 4C3
+Binary are base 2 = 0 1 0 0 1 1 0 0 0 0 1 1
 -------------------------
 
 
