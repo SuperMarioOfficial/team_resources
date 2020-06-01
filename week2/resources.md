@@ -77,7 +77,8 @@ with open('myfile.json','r+') as openfile:
 ```
 
 ### Huffman coding with pen and paper
-
+```In computer science and information theory, a Huffman code is a particular type of optimal prefix code that is commonly used for lossless data compression. ```
+In short, Huffman coding is a the most basic compression method invented by Mr.Huffman. 
 
 
 ### Documentation
