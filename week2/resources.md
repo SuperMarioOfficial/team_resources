@@ -57,8 +57,8 @@ value_I_want = x['key']['key']['key']
 ---------------------------------
 
 
-json.dumps(openfile) -> write a json file to a file
-json.loads(openfile) -> load a file and return a json file
+json.dumps(openfile) -> write a json file to a file        (export)
+json.loads(openfile) -> load a file and return a json file (import)
 
 with open('data.txt', 'w+') as outfile:
    try:
