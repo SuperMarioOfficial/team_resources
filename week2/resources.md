@@ -1,7 +1,7 @@
 
 
 ### From decimal to Hexadecimal passing from bynary
-```1,2,3,4,5,6,7,8,9,A,B,C,D,E,F```
+![](https://raw.githubusercontent.com/SuperMarioOfficial/team_resources/master/week2/2000px-Hexadecimal_multiplication_table.svg.png)
 
 ### How to use Json 
 
